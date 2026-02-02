@@ -158,6 +158,15 @@ extra_css:
 nav:
   - Home: index.md
   
+  - User Guide:
+    - user-guide/index.md
+    - Marketplace: user-guide/marketplace.md
+    - RentHub: user-guide/renthub.md
+    - Chat: user-guide/chat.md
+    - NewsBox: user-guide/newsbox.md
+    - Notices: user-guide/notices.md
+    - Issue Reporting: user-guide/issues.md
+  
   - Getting Started:
     - getting-started/index.md
     - Installation: getting-started/installation.md
